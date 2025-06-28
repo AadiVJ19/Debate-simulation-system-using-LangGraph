@@ -6,7 +6,7 @@ A LangGraph-based debate simulation system where two AI agents engage in a struc
 ## Features
 
 - Two AI agents (Scientist vs Philosopher) debate in alternating turns
-- 8-round debate structure (4 arguments per agent)
+- round debate structure (4 arguments per agent, number of rounds depends on user)
 - Memory system that preserves debate history
 - Automated judging system that determines a winner
 - CLI interface for topic input
